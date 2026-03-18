@@ -1,1 +1,1 @@
-This is notmal command line black Jack game.
+This is normal command line black Jack game.
